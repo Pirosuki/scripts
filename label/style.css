@@ -12,12 +12,12 @@ html {
 	float: left;
 	margin-top: 10px;
 	margin-left: 10px;
+	width: calc(50% - 15px);
 }
 
 #inputDiv {
 	box-shadow: rgba(0, 0, 0, 0.6) 5px 5px 5px;
 	height: 120px;
-	width: 600px;
 	border-radius: 10px;
 	background-color: rgb(77, 77, 77);
 	padding: 5px;
@@ -84,7 +84,6 @@ html {
 /* HISTORY */
 #historyDiv {
 	height: calc(100vh - 170px);
-	width: 600px;
 	margin-top: 10px;
 	padding: 5px;
 	border-radius: 10px;
@@ -132,11 +131,11 @@ html {
 	float: left;
 	margin-top: 10px;
 	margin-left: 10px;
+	width: calc(50% - 15px);
 }
 
 #listDiv {
 	height: calc(100vh - 170px);
-	width: 600px;
 	padding: 5px;
 	border-radius: 10px;
 	background-color: rgb(77, 77, 77);
@@ -208,7 +207,6 @@ html {
 	box-shadow: rgba(0, 0, 0, 0.6) 5px 5px 5px;
 	height: 120px;
 	margin-top: 10px;
-	width: 600px;
 	border-radius: 10px;
 	background-color: rgb(77, 77, 77);
 	padding: 5px;
